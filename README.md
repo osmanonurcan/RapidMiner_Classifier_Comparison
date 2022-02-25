@@ -59,7 +59,7 @@ Accuracy = TP+TN/TP+FP+FN+TN
 
 Classification Error:
 The classification error Ei of an individual program i depends on the number of samples incorrectly classified (false positives plus false negatives) and is evaluated by the formula:\
-![formula](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![formula](images/image1.png?raw=true)\
 where f is the number of sample cases incorrectly classified, and n is the total number of sample cases.
 
 ## Absolute Error
@@ -79,7 +79,7 @@ Random Forest:
 - Maximal dept: 8
 
 ## Comparison
-![comparison](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)\
+![comparison](images/image2.png?raw=true)\
 According to results, Ada Boost performs best.
 
 ## Feature Selection and Comparison
